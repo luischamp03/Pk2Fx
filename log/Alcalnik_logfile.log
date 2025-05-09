@@ -1,0 +1,452 @@
+[2025-03-21 19:13:48] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:13:51] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:14:06] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=7 enemyShots=0 heroShots=0
+[2025-03-21 19:14:07] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-21 19:15:34] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:15:36] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:16:11] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=0
+[2025-03-21 19:16:12] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-21 19:17:15] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:17:17] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:17:21] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=0 heroShots=1
+[2025-03-21 19:17:22] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-21 19:18:01] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:18:02] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:18:06] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-21 19:18:20] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:18:21] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:18:36] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=0 heroShots=0
+[2025-03-21 19:18:37] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-21 19:19:18] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:19:20] [DEBUG] [GameManager: 47] start level=7
+[2025-03-21 19:42:42] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:42:44] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:42:48] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=3 heroShots=1
+[2025-03-21 19:42:49] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:42:51] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=2 heroShots=0
+[2025-03-21 19:42:52] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:42:56] [DEBUG] [GameManager:175] updateGame E_APP_LOST enemies=10 enemyShots=0 heroShots=0
+[2025-03-21 19:42:57] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:42:58] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=2 heroShots=0
+[2025-03-21 19:42:59] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:43:02] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=3 heroShots=1
+[2025-03-21 19:43:03] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:43:04] [DEBUG] [GameManager:175] updateGame E_APP_LOST enemies=10 enemyShots=3 heroShots=1
+[2025-03-21 19:43:05] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:43:07] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=3 heroShots=1
+[2025-03-21 19:43:07] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:43:08] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=3 heroShots=1
+[2025-03-21 19:43:08] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:43:18] [DEBUG] [GameManager:175] updateGame E_APP_LOST enemies=10 enemyShots=0 heroShots=0
+[2025-03-21 19:43:19] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:43:23] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=2 heroShots=0
+[2025-03-21 19:46:31] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:46:33] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:48:10] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:48:11] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:48:38] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=4 enemyShots=4 heroShots=1
+[2025-03-21 19:48:39] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:51:32] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:51:34] [DEBUG] [GameManager: 47] start level=6
+[2025-03-21 19:52:05] [DEBUG] [GameManager:177] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=2 heroShots=0
+[2025-03-21 19:52:06] [DEBUG] [GameManager: 69] sameLevel level=6
+[2025-03-21 19:53:04] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-21 19:53:05] [DEBUG] [GameManager: 47] start level=6
+[2025-03-22 10:56:06] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-22 10:56:08] [DEBUG] [GameManager: 47] start level=7
+[2025-03-22 10:57:11] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-22 11:00:46] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-22 11:00:48] [DEBUG] [GameManager: 47] start level=7
+[2025-03-22 11:01:08] [DEBUG] [GameManager:180] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=3 heroShots=0
+[2025-03-22 11:01:10] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-26 20:46:11] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 20:46:16] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 20:46:27] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=0 enemyShots=0 heroShots=0
+[2025-03-26 20:46:28] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 20:46:35] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=0 enemyShots=0 heroShots=0
+[2025-03-26 21:22:16] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:22:20] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:22:21] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=0 heroShots=0
+[2025-03-26 21:22:22] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:22:49] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:22:52] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:23:08] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-26 21:23:15] [DEBUG] [GameManager: 59] nextLevel level=10
+[2025-03-26 21:23:22] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:23:25] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:30:40] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:30:45] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:30:46] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=0 heroShots=0
+[2025-03-26 21:30:47] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:30:57] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-26 21:31:04] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:31:07] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:31:09] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=0 heroShots=0
+[2025-03-26 21:31:09] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:31:30] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=0 heroShots=2
+[2025-03-26 21:53:51] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:53:56] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:54:18] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=1 heroShots=1
+[2025-03-26 21:54:20] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:54:22] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=1 heroShots=0
+[2025-03-26 21:54:22] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:54:24] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=2 enemyShots=2 heroShots=0
+[2025-03-26 21:56:34] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:56:38] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:56:47] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:56:48] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:56:54] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:56:55] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:56:57] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:56:58] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:56:59] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:56:59] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:57:01] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:57:01] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:57:14] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=1 enemyShots=1 heroShots=0
+[2025-03-26 21:57:16] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:57:17] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=0 heroShots=0
+[2025-03-26 21:57:23] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:57:44] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 21:57:48] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 21:58:01] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:58:02] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 21:58:04] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 21:58:04] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:07:14] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:07:20] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:07:42] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=1 heroShots=0
+[2025-03-26 22:07:43] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:08:05] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=0 enemyShots=1 heroShots=0
+[2025-03-26 22:08:09] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:20:18] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:20:24] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:20:45] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=2 heroShots=0
+[2025-03-26 22:20:46] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:20:50] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=2 heroShots=1
+[2025-03-26 22:20:51] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:22:06] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:22:10] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:22:14] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=8 enemyShots=1 heroShots=0
+[2025-03-26 22:22:14] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:23:40] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:23:43] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:24:40] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:24:43] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:25:52] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:25:55] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:26:03] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=2 heroShots=0
+[2025-03-26 22:26:04] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:26:09] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=3 heroShots=1
+[2025-03-26 22:26:10] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:26:13] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-26 22:26:28] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:26:31] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:27:45] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:27:49] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:28:52] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:28:55] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:29:31] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:29:33] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:29:48] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:29:52] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:30:05] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:30:09] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:30:29] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:30:32] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:30:55] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=7 enemyShots=0 heroShots=0
+[2025-03-26 22:32:25] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:32:27] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:32:56] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:32:59] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:33:11] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=7 enemyShots=1 heroShots=0
+[2025-03-26 22:33:11] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:33:22] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=4 heroShots=2
+[2025-03-26 22:33:23] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-26 22:37:14] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:37:17] [DEBUG] [GameManager: 47] start level=8
+[2025-03-26 22:37:32] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-26 22:37:34] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:27:55] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:28:01] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:28:30] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=1 heroShots=0
+[2025-03-27 20:33:44] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:33:48] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:34:45] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:34:57] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:34:59] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=1 heroShots=0
+[2025-03-27 20:35:01] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:35:30] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=0 heroShots=0
+[2025-03-27 20:35:30] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:35:38] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=4 enemyShots=2 heroShots=2
+[2025-03-27 20:35:39] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:39:42] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:39:44] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:40:21] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:41:33] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:41:36] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:41:51] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:41:52] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:41:53] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:41:53] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:42:00] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:47:36] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:47:40] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:48:28] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=0
+[2025-03-27 20:48:29] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:48:33] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=0
+[2025-03-27 20:48:34] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:50:23] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:50:28] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:51:17] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:51:22] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:51:51] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:51:57] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:52:07] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=1 heroShots=0
+[2025-03-27 20:52:07] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:52:20] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:52:22] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:52:23] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:54:50] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:54:53] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:56:53] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-27 20:57:02] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:57:25] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:57:26] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:57:27] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=6 enemyShots=0 heroShots=0
+[2025-03-27 20:57:29] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-27 20:57:50] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=3 enemyShots=0 heroShots=0
+[2025-03-27 20:57:50] [DEBUG] [GameManager: 47] start level=8
+[2025-03-27 20:58:00] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=4 heroShots=4
+[2025-03-27 20:58:00] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-28 13:18:51] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:18:53] [DEBUG] [GameManager: 47] start level=8
+[2025-03-28 13:28:07] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:28:09] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:28:14] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@3492ee36, edu.masanz.da.pk2.sprite.Ghost@2d784e9]
+[2025-03-28 13:28:14] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@28ed0e5a, edu.masanz.da.pk2.sprite.Ghost@badb62f]
+[2025-03-28 13:28:14] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:17] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@35639b7f, edu.masanz.da.pk2.sprite.Ghost@2006d4f0]
+[2025-03-28 13:28:18] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:18] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@6234f8e, edu.masanz.da.pk2.sprite.Ghost@2f329456]
+[2025-03-28 13:28:20] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:22] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:23] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:24] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:26] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:27] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=3
+[2025-03-28 13:28:28] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:28:29] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=0
+[2025-03-28 13:28:29] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:28:30] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@55e33a5e, edu.masanz.da.pk2.sprite.Ghost@5d0762dc]
+[2025-03-28 13:28:30] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@1a821144, edu.masanz.da.pk2.sprite.Ghost@4dcfbdda]
+[2025-03-28 13:28:30] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:32] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@1324ff7, edu.masanz.da.pk2.sprite.Ghost@6745cc8f]
+[2025-03-28 13:28:33] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@6dc7e912, edu.masanz.da.pk2.sprite.Ghost@5dd6a81d]
+[2025-03-28 13:28:33] [DEBUG] [Ghost: 46] Ghost spawned: []
+[2025-03-28 13:28:36] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@4e8819a7, edu.masanz.da.pk2.sprite.Ghost@760854d]
+[2025-03-28 13:28:36] [DEBUG] [Ghost: 46] Ghost spawned: [edu.masanz.da.pk2.sprite.Ghost@55bd63ca, edu.masanz.da.pk2.sprite.Ghost@3dc3af20]
+[2025-03-28 13:29:01] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:29:02] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:29:06] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:08] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:08] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:10] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:10] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:11] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:13] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:13] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:13] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=11 enemyShots=0 heroShots=3
+[2025-03-28 13:29:13] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:29:15] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=11 enemyShots=0 heroShots=0
+[2025-03-28 13:29:15] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:29:16] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:19] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:19] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:19] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:20] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=11 enemyShots=0 heroShots=3
+[2025-03-28 13:29:25] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:29:27] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:29] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:29] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:30] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:33] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:34] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:35] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:37] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:37] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:40] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:42] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:43] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:44] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:44] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:45] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:46] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:46] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:46] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:47] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:49] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:49] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:52] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:29:52] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:29:53] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=7 enemyShots=0 heroShots=0
+[2025-03-28 13:35:04] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:35:05] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:35:09] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:09] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:11] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:12] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:30] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:30] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:30] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:30] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:31] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:36] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:41] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:41] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:42] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:42] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:51] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:52] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:52] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:52] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:52] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:52] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:53] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:53] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:57] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:35:59] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:59] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:35:59] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:00] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:01] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=14 enemyShots=0 heroShots=8
+[2025-03-28 13:36:02] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:36:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:06] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:36:06] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=16 enemyShots=0 heroShots=0
+[2025-03-28 13:36:06] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 13:36:08] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:36:09] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:09] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:10] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:10] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:36:10] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:10] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:36:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:11] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:36:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:12] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:36:13] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=20 enemyShots=0 heroShots=2
+[2025-03-28 13:36:13] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:39:57] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:39:59] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:40:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:40:06] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:12] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:15] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:40:15] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:16] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:18] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:37] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:40:48] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:40:51] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:40:59] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:02] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:41:02] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:02] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:03] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:11] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 13:41:18] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:24] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:41:29] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:41:30] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:41:32] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 13:54:16] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:54:17] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:54:20] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 13:54:23] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 13:57:36] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 13:57:38] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 13:57:41] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 13:57:46] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 13:58:22] [DEBUG] [GameManager: 59] nextLevel level=10
+[2025-03-28 14:01:08] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 14:01:10] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 14:01:12] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 14:01:14] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 14:02:31] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 14:02:33] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 14:02:34] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 14:02:36] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 14:02:46] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 14:03:16] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 14:03:19] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 14:03:21] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 14:03:23] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 14:03:30] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=12 enemyShots=2 heroShots=1
+[2025-03-28 14:03:31] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 14:03:36] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=11 enemyShots=0 heroShots=0
+[2025-03-28 14:03:36] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 14:03:42] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=9 enemyShots=0 heroShots=5
+[2025-03-28 14:03:43] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 14:04:02] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 14:04:03] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 14:04:05] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 14:04:06] [DEBUG] [GameManager: 59] nextLevel level=9
+[2025-03-28 14:04:08] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=13 enemyShots=0 heroShots=5
+[2025-03-28 14:04:09] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 14:04:55] [DEBUG] [GameManager: 59] nextLevel level=10
+[2025-03-28 17:35:27] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 17:35:30] [DEBUG] [GameManager: 47] start level=7
+[2025-03-28 17:35:34] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=10 enemyShots=1 heroShots=2
+[2025-03-28 17:35:34] [DEBUG] [GameManager: 69] sameLevel level=7
+[2025-03-28 17:36:24] [DEBUG] [GameManager: 59] nextLevel level=8
+[2025-03-28 17:36:29] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 17:36:29] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:36:30] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:36:34] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=0 heroShots=3
+[2025-03-28 17:36:35] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-28 17:36:44] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:36:46] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:36:55] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=0 heroShots=0
+[2025-03-28 17:36:55] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-28 17:37:05] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 17:37:05] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:37:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 17:37:06] [DEBUG] [Ghost: 46] Ghost spawned: 2
+[2025-03-28 17:37:06] [DEBUG] [Ghost: 46] Ghost spawned: 0
+[2025-03-28 17:37:06] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=3 enemyShots=0 heroShots=0
+[2025-03-28 17:37:07] [DEBUG] [GameManager: 69] sameLevel level=8
+[2025-03-28 17:37:38] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 17:37:40] [DEBUG] [GameManager: 47] start level=9
+[2025-03-28 17:37:45] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=9 enemyShots=3 heroShots=0
+[2025-03-28 17:37:45] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 17:37:45] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=9 enemyShots=0 heroShots=0
+[2025-03-28 17:37:46] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 17:37:48] [DEBUG] [GameManager:183] updateGame E_APP_LOST enemies=8 enemyShots=2 heroShots=0
+[2025-03-28 17:37:52] [DEBUG] [GameManager: 47] start level=9
+[2025-03-28 17:37:58] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=8 enemyShots=2 heroShots=8
+[2025-03-28 17:37:58] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 17:38:40] [DEBUG] [GameManager: 59] nextLevel level=10
+[2025-03-28 17:38:47] [DEBUG] [GameManager: 59] nextLevel level=11
+[2025-03-28 17:39:08] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 17:39:09] [DEBUG] [GameManager: 47] start level=9
+[2025-03-28 17:39:13] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=8 enemyShots=2 heroShots=3
+[2025-03-28 17:39:14] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 17:39:35] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=1 enemyShots=0 heroShots=0
+[2025-03-28 17:39:35] [DEBUG] [GameManager: 69] sameLevel level=9
+[2025-03-28 17:41:22] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-28 17:41:24] [DEBUG] [GameManager: 47] start level=9
+[2025-03-28 17:41:46] [DEBUG] [GameManager:185] updateGame E_APP_ONELESSLIFE enemies=2 enemyShots=4 heroShots=6
+[2025-03-28 17:41:46] [DEBUG] [GameManager: 69] sameLevel level=9

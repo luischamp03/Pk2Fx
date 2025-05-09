@@ -1,0 +1,102 @@
+@startuml
+abstract class weaponry.AShot {
+}
+abstract class AEnemy {
+}
+
+
+class Hero {
+}
+
+
+interface ICanShoot {
+}
+
+class Shark {
+}
+abstract class AFlyingEnemy {
+}
+
+
+interface IHaveShield {
+}
+
+abstract class ASprite {
+}
+
+
+class weaponry.SnipperGun {
+}
+
+interface ICanSpawn {
+}
+
+class SpriteTemp {
+}
+
+
+class FlyingBunny {
+}
+class weaponry.Cannonball {
+}
+
+
+class Tower {
+}
+
+class StrongBear {
+}
+abstract class AWaterEnemy {
+}
+
+
+class LifesSprite {
+}
+
+
+abstract class weaponry.AWeapon {
+}
+
+class Meowth {
+}
+
+
+abstract class AGroundEnemy {
+}
+
+
+class Bear {
+}
+
+
+class weaponry.Shot {
+}
+
+
+
+
+ASprite <|-- weaponry.AShot
+ICanShoot <|.. AEnemy
+ASprite <|-- AEnemy
+ASprite <|-- Hero
+AWaterEnemy <|-- Shark
+AEnemy <|-- AFlyingEnemy
+weaponry.AWeapon <|-- weaponry.SnipperGun
+ASprite <|-- SpriteTemp
+AFlyingEnemy <|-- FlyingBunny
+weaponry.AShot <|-- weaponry.Cannonball
+AEnemy <|-- Tower
+AEnemy --> weaponry.AWeapon
+Bear <|-- StrongBear
+AEnemy <|-- AWaterEnemy
+ASprite <|-- LifesSprite
+AGroundEnemy <|-- Meowth
+AEnemy <|-- AGroundEnemy
+AGroundEnemy <|-- Bear
+weaponry.AShot <|-- weaponry.Shot
+weaponry.SnipperGun <.. Tower
+Hero ..> weaponry.Shot
+weaponry.AWeapon ..> weaponry.AShot
+weaponry.SnipperGun ..> weaponry.Cannonball
+IHaveShield <|.up. StrongBear
+@enduml

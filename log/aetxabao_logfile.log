@@ -1,0 +1,10 @@
+[2025-03-19 07:22:27] [INFO ] [AppPk2Fx: 51] --------------------------------------------------------------------------------
+[2025-03-19 07:22:43] [DEBUG] [GameManager: 46] start level=1
+[2025-03-19 07:22:52] [DEBUG] [GameManager: 57] nextLevel level=2
+[2025-03-19 07:23:00] [DEBUG] [GameManager: 57] nextLevel level=3
+[2025-03-19 07:23:33] [DEBUG] [GameManager: 57] nextLevel level=4
+[2025-03-19 07:23:46] [DEBUG] [GameManager:168] updateGame E_APP_ONELESSLIFE enemies=5 enemyShots=0 heroShots=0
+[2025-03-19 07:23:47] [DEBUG] [GameManager: 66] sameLevel level=4
+[2025-03-19 07:23:52] [DEBUG] [GameManager: 57] nextLevel level=5
+[2025-03-19 07:24:03] [DEBUG] [GameManager: 57] nextLevel level=6
+[2025-03-19 07:24:20] [DEBUG] [GameManager: 57] nextLevel level=7

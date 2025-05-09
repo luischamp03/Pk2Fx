@@ -1,0 +1,25 @@
+@startuml
+class GameManager {
+- Hero hero
+# LifesSprite lifesSprite
+# List<AShot> heroShots
+# List<AShot> enemyShots
+# List<AEnemy> enemies
+# List<SpriteTemp> temps
++ int score
+- AppStatus appStatus
+- {static} Logger log
++ <<Create>> GameManager(AppStatus)
++ void start()
++ void nextLevel()
++ void sameLevel()
+- void clearLevel()
++ void finish()
++ int getLevel()
++ Hero getHero()
++ void shot()
++ void updateGame()
+}
+
+
+@enduml

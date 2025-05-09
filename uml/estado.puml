@@ -1,0 +1,31 @@
+@startuml
+
+[*] -right-> Start
+Start : drawStart
+
+Start -right-> Playing : start()
+Playing : render
+Playing : input
+Playing : update
+
+Playing -right-> NewLevel : newLevel()
+NewLevel : drawNewLevel
+
+NewLevel --> Playing : nextLevel()
+
+state c <<choice>>
+
+Playing -right-> c : oneLessLife()
+OneLessLife : drawOneLessLife
+
+c --> OneLessLife : [lifes > 0]
+c -up-> Lost : [lifes == 0]
+
+Lost : drawYouLost
+
+OneLessLife --> Playing : samelevel()
+
+
+Lost --> Start
+
+@enduml

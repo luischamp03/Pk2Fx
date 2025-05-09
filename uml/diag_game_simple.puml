@@ -1,0 +1,133 @@
+@startuml
+class AppStatus {
+- EAppStatus value
+- int level
+- Integer lifes
++ int getLevel()
++ int getLifes()
++ void setLevel(int)
++ void setLifes(int)
++ EAppStatus getValue()
++ void quit()
++ void start()
++ void nextLevel()
++ void sameLevel()
++ void finish()
++ void oneLessLife()
++ void newLevel()
+}
+
+
+class Renderer {
+~ GraphicsContext gc
+~ GameManager gameManager
++ void drawStart()
+- void write(double,double,double,String,String)
+- void clearScreen(Color)
++ void drawBoard(int)
+- void drawScene(int)
++ void drawYouWon()
++ void drawYouLost()
+- void drawFinish(String)
++ void drawNewLevel(int)
++ void drawOneLessLife()
+- void pressEnterToContinue()
+}
+
+
+class AppPk2Fx {
+- {static} GraphicsContext gc
+- {static} GameManager gameManager
+- long deltaTime
+- {static} Renderer renderer
+- {static} BooleanProperty wPressed
+- {static} BooleanProperty aPressed
+- {static} BooleanProperty sPressed
+- {static} BooleanProperty dPressed
+- {static} BooleanProperty shotReleased
+- {static} AppStatus appStatus
+- {static} Logger log
++ {static} void main(String[])
++ void start(Stage)
+- void setup(Stage)
+- {static} void setEventActions(Scene)
+- {static} void enterOrSpaceAction()
+- {static} void gameStart()
+- {static} void gamePlaying()
+- {static} void gameNewLevel()
+- {static} void gameOneLessLife()
+- {static} void gameFinish()
+- {static} void processInput()
+}
+
+
+class GameArea {
++ {static} Rect rect
+}
+
+class GameObject {
+- {static} GameObject instance
+- Hero hero
++ {static} GameObject getInstance()
++ void setHero(Hero)
++ Hero getHero()
+}
+
+
+class SceneLoader {
+- {static} int sceneNumber
+- {static} int sceneLimit
+- {static} char[][] m
+- {static} int rows
+- {static} int cols
+- {static} int boardWidth
+- {static} int boardHeight
+- {static} double tileWidth
+- {static} double tileHeight
+- {static} Position heroCoordPosIni
+- {static} Position heroCoordPosFin
+- {static} Position heroBoardPosIni
+- {static} Position heroBoardPosFin
+- {static} void getSceneLimit()
++ {static} char[][] loadScene(int)
++ {static} List<AEnemy> createEnemies()
++ {static} int getPosValue(int,int)
++ {static} Position getHeroBoardPosIni()
++ {static} double getTileWidth()
++ {static} double getTileHeight()
++ {static} void main(String[])
+}
+
+
+class GameManager {
+- Hero hero
+# LifesSprite lifesSprite
+# List<AShot> heroShots
+# List<AShot> enemyShots
+# List<AEnemy> enemies
+# List<SpriteTemp> temps
++ int score
+- AppStatus appStatus
+- {static} Logger log
++ void start()
++ void nextLevel()
++ void sameLevel()
+- void clearLevel()
++ void finish()
++ int getLevel()
++ Hero getHero()
++ void shot()
++ void updateGame()
+}
+
+AppPk2Fx --> AppStatus
+GameManager -left-> AppStatus
+AppPk2Fx --> Renderer
+AppPk2Fx --> GameManager
+Renderer --> GameManager
+GameManager ..> GameObject
+AppPk2Fx --> SceneLoader
+GameManager ..> GameArea
+Renderer ..> GameArea
+SceneLoader ..> GameArea
+@enduml

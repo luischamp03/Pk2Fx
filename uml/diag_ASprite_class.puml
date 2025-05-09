@@ -1,0 +1,38 @@
+@startuml
+abstract class ASprite {
+# Image img
+# int rows
+# int cols
+# int colSpace
+# int rowSpace
+# int currentFrame
+# int side
+# int width
+# int height
+# int x
+# int y
+# int xSpeed
+# int ySpeed
++ <<Create>> ASprite(Image,int,int)
++ <<Create>> ASprite(Image,int,int,int,int)
++ int getX()
++ void setX(int)
++ int getY()
++ void setY(int)
++ void setPos(int,int)
++ int getXSpeed()
++ void setXSpeed(int)
++ int getYSpeed()
++ void setYSpeed(int)
++ void setSpeed(int,double)
++ double getSpeed()
++ double getAngDeg()
++ Rect getRect()
++ Rect[] getRects()
++ boolean collides(ASprite)
++ void draw(GraphicsContext)
++ {abstract}void update()
+}
+
+
+@enduml
